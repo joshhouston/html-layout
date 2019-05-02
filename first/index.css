@@ -1,0 +1,30 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    background-color: beige;
+;}
+.top {
+    background-color: grey;
+    width: 100vw;
+    height: 10vw;
+    margin: 0;
+    padding: 0;
+}
+
+.middle {
+    width: 75%;
+    background-color:white;
+    height: 70vh;
+    margin: 0 auto;
+}
+
+.bottom {
+    background-color: black;
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh;
+}
+
+
+
+
