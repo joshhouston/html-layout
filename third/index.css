@@ -1,0 +1,56 @@
+
+.div-holder {
+    display: flex;
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 40px;
+    flex-direction: column;
+}
+.color1 {
+    background-color: grey;
+    height: 12vh;
+    width: 100%;
+    display: flex;
+}
+
+.mini-div {
+    display: flex;
+    width: 80px;
+    background-color: lightblue;
+    margin: 1%;
+}
+
+.text-div {
+    height: 30vh;
+    width: 100%;
+    display: flex;
+}
+
+.text-div p {
+    text-align: left;
+    font-size: 1.5em;
+}
+.color2 {
+    background-color: lightskyblue;
+    height: 12vh;
+    width: 100%;
+    display: flex;
+}
+.color3 {
+    background-color: aquamarine;
+    height: 12vh;
+    width: 100%;
+    display: flex;
+}
+.color4 {
+    background-color: green;
+    height: 12vh;
+    width: 100%;
+    display: flex;
+}
+.color5 {
+    background-color: yellow;
+    height: 12vh;
+    width: 100%;
+    display: flex;
+}
