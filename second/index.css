@@ -1,0 +1,70 @@
+html, body {
+    height: 100%;
+}
+.div-holder {
+    height: 210px;
+    border: 5px solid;
+    margin: 3%;
+}
+
+.purple {
+    width: 2.5vw;
+    height: 13vh;
+    background-color: purple;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block
+}
+
+.green {
+    background-color: green;
+    display: inline-block;
+    margin-left: 50px;
+    width: 25vw;
+    height: 9vw;
+    margin-bottom: 10px;
+}
+
+.circle {
+    display: inline-block;
+    margin-left: 50px;
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+.dotted-div {
+    height: 310px;
+    border: 5px dotted;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.beige-div {
+    width: 85%;
+    margin: 3% auto;
+    height: 22vh;
+    background-color: beige;
+    box-shadow: 5px 5px 5px;
+}
+
+.text-div {
+    margin-left: 40%;
+    margin-right: 40%;
+    box-shadow: 2px 1px 5px;
+    margin-top: 20px;
+    height: 200px;
+}
+
+.hello {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+.hello h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: navy;
+}
